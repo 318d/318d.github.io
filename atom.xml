@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>318</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-06-07T05:59:12.443Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>318</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>需求分析</title>
+    <link href="http://yoursite.com/2019/01/13/%E4%B8%89%E8%8A%82%E8%AF%BE%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
+    <id>http://yoursite.com/2019/01/13/三节课需求分析/</id>
+    <published>2019-01-13T06:46:27.000Z</published>
+    <updated>2019-06-07T05:59:12.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>在机会来临之前，快速试错，快速迭代，找准方向，这个时代不会等你，机会到来之前不疯狂积累资本。</p><h4 id="产品设计的核心三要素"><a href="#产品设计的核心三要素" class="headerlink" title="产品设计的核心三要素"></a>产品设计的核心三要素</h4><p>产品设计，就是不断解决用户在特定场景下的需求；增加、减少功能并非关键，关键是能不能解决问题。产品设计的核心三要素是用户、场景、需求。</p><h4 id="用思维导图挖掘用户需求"><a href="#用思维导图挖掘用户需求" class="headerlink" title="用思维导图挖掘用户需求"></a>用思维导图挖掘用户需求</h4><ul><li>用户：当想到一个功能，先不要想怎么实现，而要想谁会用</li><li>场景：用户分别在什么情况下会使用（感兴趣）？</li><li>用户分别在上述场景下，碰到什么问题？</li><li>用户现在的解决方案是什么？<br><img src="https://i.imgur.com/LQALkww.png" alt="avatar"></li></ul><h4 id="需求优先级排序（根据影响面做需求优先级排序）"><a href="#需求优先级排序（根据影响面做需求优先级排序）" class="headerlink" title="需求优先级排序（根据影响面做需求优先级排序）"></a>需求优先级排序（根据影响面做需求优先级排序）</h4><ul><li>四象限看用户量与发生频率：优先解决大用户量的高频问题,基础体验；最后解决少量用户的低频问题，超好体验。</li><li>看开发难度跟效果：优先见效快且开发难度不大的,这就是迭代；最后做很费劲而且见效慢的,这可能是未来的机会。</li><li>看产品价值：主要看用户的迫切程度,是不是真的需要这个功能、看用户的付费意愿、看ARPU值等。</li><li>看你对目标用户的熟悉程度.</li></ul><h4 id="闫荣老师提出的需求优先级划分方法"><a href="#闫荣老师提出的需求优先级划分方法" class="headerlink" title="闫荣老师提出的需求优先级划分方法"></a>闫荣老师提出的需求优先级划分方法</h4><p><em>基本原则是根据商业价值原则，即重要性+紧迫性。</em></p><h4 id="1-新产品未上线的需求优先级划分方法："><a href="#1-新产品未上线的需求优先级划分方法：" class="headerlink" title="1. 新产品未上线的需求优先级划分方法："></a>1. 新产品未上线的需求优先级划分方法：</h4><p> 根据对⽤户的重要性和紧迫性来判断需求的优先级，那么如何判断需求对⽤户的重要性呢？⼀般情况⽽⾔，⽤户需求重要性：基本型需求&gt;期望性需求&gt;兴奋型需求。<br>是不是明确需求的重要性之后就可以判断需求的优先级了呢，这⾥⾯还需要加上⼀个因素，即紧迫性。基本型 需求重要性最⾼，且也最紧迫，所以基本型需求的优先级默认是最⾼的。</p><p> ⼀般情况下，肯定是先做基本型需求，在研发基本型需求的同时，有时候因为运营、营销、销售等业务需求的 迫切需要，会同时研发⼀部分的期望型需求（重要不紧急）和兴奋型需求（紧急不重要），主要是制造产品的亮 点和卖点，在市场上与竞争对⼿形成差异化或者品牌区隔，也有利于产品上线初期凭借期望型需求或兴奋型需求 赢得⽤户良好的⼜碑。 </p><p> 需要特别注意的是每个⽤户⼼⾥的基本型需求、期望型需求和兴奋型需求是不完全⼀样的，是千差万别的，⽐ 如说有的⽤户认为期望型需求是基本型需求，⽽有的⽤户认为兴奋型需求是基本型需求，这也随着时间在动态变 化，甚⾄衰减，所以产品需求优先级的定义也要根据当时的实际情况来定。 </p><h4 id="2-免费型产品已上线"><a href="#2-免费型产品已上线" class="headerlink" title="2. 免费型产品已上线"></a>2. 免费型产品已上线</h4><p> 这⾥还是采⽤需求的商业价值原则，即重要性+紧迫性原则。⽤户有需求，产品利⽤相应的功能或内容来对应和满⾜需求，可以根据功 能的使⽤率，使⽤次数和类别重要性，形成⼀个需求重要性的计算公式，根据计算的结果和紧迫性来定义需求的优先级。 </p><h4 id="2-收费型产品"><a href="#2-收费型产品" class="headerlink" title="2. 收费型产品"></a>2. 收费型产品</h4><p>收费型产品指的是已经上线或者未上线收费型产品（全部功能收费）或者部分收费型产品（有些功能免费，有 些功能收费）。在这特别说明⼀下，收费型产品的需求也主要是期望型需求和兴奋型需求，因为基本型需求的优 先级默认是最⾼级别的（重要且紧急）。 ⼀般情况⽽⾔，收费型产品是公司的收⼊来源，如⽆特殊情况，在同等条件下，⼀般收费型的功能优先级要⾼ 于免费型的功能优先级。那么收费型产品的优先级如何定义呢？定义的标准就是商业价值，即重要性+紧迫性， 这⾥的重要性主要指的是经济收益（将战略上的收益也归结经济收益，包括有形的和⽆形的收益），经济收益⾼ 且紧急的功能需求先做，经济收益⾼且不紧急的功能需求后做，紧急且经济收益不⾼的功能需求再往后做，不紧 急且经济收益不⾼的功能需求最后才做。 </p><pre><code>特别注意的是，上述 的内容都是围绕需求的优先级来展开的，是从产品⼈员的⾓度来说，但是从研发⼈员的⾓度来说，毕竟受到各种 ⼈⼒、物⼒、财⼒的限制和影响，并不能完完全全按照产品⼈员确定的需求优先级来进⾏研发，基于产品⼈员确 定的需求优先级，研发⼈员基于开发资源提出相应需求优先级的研发优先级。</code></pre><h4 id="三节课课程题目解答"><a href="#三节课课程题目解答" class="headerlink" title="三节课课程题目解答"></a>三节课课程题目解答</h4><p> 【作业题目】给以下需求优先级排序滴滴打车早期第一版核心打车功能已上线，需要对下列功能优先级排序<br>1.新增“愿等时间”，多等司机一会儿，提高打车成功率<br>2.电量优化，叫车更省电<br>4.定位信号弱时，可自己设置上车点<br>5.支付时默认选车券，省钱便捷<br>6.即时聊天开放，沟通更方便 </p><p> 三节课出的这道题还挺有意思，刚好学了这课程，就根据自己所学内容以及自己的理解试着进行分析： </p><ol><li>需求都是从场景出发，以下先从场景出发分析需求<br><img src="https://i.imgur.com/8gUdCnp.png" alt="avatar"></li><li>从用户规模跟使用频率上进行分析：<br><img src="https://i.imgur.com/bjz4vLv.png" alt="avatar"></li><li>从开发难度跟效果上进行评估：<br><img src="https://i.imgur.com/4W332MO.png" alt="avatar"></li><li>从产品价值跟迫切程度上看：<br><img src="https://i.imgur.com/QURBozh.png" alt="avatar"></li></ol><p> 综合来看，功能的优先排序是1,4&gt;5&gt;6&gt;2,1跟4属于基础型功能，并且这两个功能的使用用户数跟发生频率相对会比较高，开发难度相对不是很高且见效快，属于第一级别的功能，2,5,6属于期望型功能，3相较5，6开发难度较大，见效慢，且使用场景发生频率很低，用户规模会相对较少，优先级应该比5跟6要低，6跟5比较，6可以在用户上车前提高司乘双方的沟通效率，让打车更便捷，但相比较5使用频率不那么高，且可以暂时用电话代替，5可以提高支付体验，让支付更便捷，对用户来说是一个更好的体验，从产品价值上来看要高于6，所以5&gt;6，综合来看,优先级的排序是1,4&gt;5&gt;6&gt;2。 </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在机会来临之前，快速试错，快速迭代，找准方向，这个时代不会等你，机会到来之前不疯狂积累资本。&lt;/p&gt;
+&lt;h4 id=&quot;产品设计的核心三要素&quot;&gt;&lt;a href=&quot;#产品设计的核心三要素&quot; class=&quot;headerlink&quot; title=&quot;产品设计的核心三要素&quot;&gt;&lt;/a&gt;产品
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何做用户调研</title>
+    <link href="http://yoursite.com/2018/12/31/one/"/>
+    <id>http://yoursite.com/2018/12/31/one/</id>
+    <published>2018-12-31T08:15:49.000Z</published>
+    <updated>2019-06-07T06:04:00.903Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="三节课用户分析初级"><a href="#三节课用户分析初级" class="headerlink" title="三节课用户分析初级"></a>三节课用户分析初级</h4><pre><code>P1产品经理，最笨的方法就是去接触用户，这个阶段的产品经理基本上可以通过用户反馈、简单的用户调研去做用户分析.</code></pre><h5 id="整体框架"><a href="#整体框架" class="headerlink" title="整体框架"></a>整体框架</h5><p><img src="https://i.imgur.com/5E1n2BE.png" alt="avatar"></p><h3 id="关于用户反馈"><a href="#关于用户反馈" class="headerlink" title="关于用户反馈"></a>关于用户反馈</h3><h4 id="搜集用户反馈的渠道"><a href="#搜集用户反馈的渠道" class="headerlink" title="搜集用户反馈的渠道"></a>搜集用户反馈的渠道</h4><table><thead><tr><th>公开渠道</th><th>半公开渠道</th><th>内部渠道  </th></tr></thead><tbody><tr><td>应用商店</td><td>微信群</td><td>用户投诉   </td></tr><tr><td>微博、贴吧、豆瓣等社区</td><td>QQ群</td><td>电话录音   </td></tr><tr><td>…</td><td>…</td><td>客服投诉</td></tr></tbody></table><pre><code>应用商店常用分析工具：APPAnnie、应用雷达、ASO114等</code></pre><h4 id="监控应用商店监控什么"><a href="#监控应用商店监控什么" class="headerlink" title="监控应用商店监控什么"></a>监控应用商店监控什么</h4><ol><li>低分差评：重点看低分</li><li>有效评论：重点看有实际的评论</li><li>异常行为：比如水军刷榜/恶意评价</li><li><p>监控竞争对手的变化(比如竞品上了某些新功能，用户的评论怎么样，我们要不要跟进？)</p><p> 百度搜索小技巧：只搜贴吧的内容，赶集网 骗子 site：tieba.baidu.com_</p></li></ol><h3 id="怎么做用户调研"><a href="#怎么做用户调研" class="headerlink" title="怎么做用户调研"></a>怎么做用户调研</h3><h4 id="1-明确调研背景"><a href="#1-明确调研背景" class="headerlink" title="1. 明确调研背景"></a>1. 明确调研背景</h4><p>首先要想一下是否一定要做用户调研，用简单的数据统计能不能解决问题？如果确定是要做调研，那么请一定要弄清楚是在什么情况下发起的调研？通过调研希望得到什么结果？<br>三节课的学员说过,在调研前，要确保你的调研目的在你脑海中是清晰的，并且需要围绕这个目的规划好你想要获得的信息，这个至关重要。</p><p>另外，调研目的最好是偏封闭的，而不是偏开发的，应该是具体而清晰的,而不是大而全的。<br>调研目的没弄清楚的一些错误案例：</p><h4 id="2-目标用户的选择"><a href="#2-目标用户的选择" class="headerlink" title="2. 目标用户的选择"></a>2. 目标用户的选择</h4><p>标用户一定要挑典型的就好，一般5个左右，涵盖各个典型用户，不同人群调研结果进行对比。目标用户还是注重质而不是量。</p><h4 id="3-准备调研内容"><a href="#3-准备调研内容" class="headerlink" title="3. 准备调研内容"></a>3. 准备调研内容</h4><p>确定完目标用户之后，接下来就要根据目标用户去设置调研的内容，调研内容上，一般如果是线上的话设置10-20道问题，线下的话设置5-10道题，问题的设置紧扣我们的调研目的，通过用户的行为表现去挖掘用户可能的问题，并猜测可能的解决方案，也就是说我们在调研之前我们对用户要有有一些基本的假设和预判,再通过用户调研去加以验证,而不是脑袋空空，寄希望于用户可以给你所有的答案。</p><p>如果是通过网络调研问卷的方式进行调研，最好设置成行为类的题目，原因类的题目他们很难回答，行为类的题目较为容易回答并且回答真实性较高.要把问题拆解成只需用户回忆或者陈述事实的问题即可。</p><h4 id="4-现场调研记录"><a href="#4-现场调研记录" class="headerlink" title="4. 现场调研记录"></a>4. 现场调研记录</h4><p>调研访谈过程主要做好“观察用户的使用行为，复原当时情景”、“提问：对关键行为，预设问题进行提问”、“反馈：对有效信息反馈给用户，并深究”。</p><h4 id="5-调研报告"><a href="#5-调研报告" class="headerlink" title="5. 调研报告"></a>5. 调研报告</h4><p>调研报告的工作主要是记录单用户的调研过程,汇总用户调研的过程和结论,分享并提出行动计划.调研记过的改善可以参考gap模型。</p><p>gap模型参考如下：</p><p><img src="https://i.imgur.com/5k4JgwW.png" alt="avatar"></p><p>从用户角度看待AARRR模型：</p><p><img src="https://i.imgur.com/SVwHP7p.png" alt="avatar"></p><h4 id="6-如何让用户愿意配合你做调研？"><a href="#6-如何让用户愿意配合你做调研？" class="headerlink" title="6. 如何让用户愿意配合你做调研？"></a>6. 如何让用户愿意配合你做调研？</h4><ul><li>把持续要回收的数据集成在产品里（比如卖护肤品的版块嵌入皮肤测试）</li><li>把需要的数据集成在宣传里(比如教育网站开新课前弄的新课程测试调研)</li></ul><h4 id="7-知乎上的一些观点"><a href="#7-知乎上的一些观点" class="headerlink" title="7. 知乎上的一些观点"></a>7. 知乎上的一些观点</h4><ul><li><p>设计学院：设计学院的调研方法论中一个很重要的出发点是为什么要做这个调研?设计学院的想法是你去做访谈并不是针对某一个产品，不是某一个具体的行为,而是去理解访谈对象的他们的想法、他们的情绪和他们的动机.你才能基于这一切来为他们做创新.如果你理解了被访谈对象他们的生活是怎么样？他们为什么做这种决定,他们的行为是怎么样？你才能够找到他们的需求,并且能通过设计产品来解决这些需求。</p><blockquote><p>一个残酷的事实：很多人调研的目的就是为了拿到反馈结果，但如果你的调研结果无法对于你的下一步产生有价值的指导意义，你的调研就是失败的。</p></blockquote></li><li><p>一定要弄清楚调研的目的，不然结果就是拿到一大堆散乱的用户反馈，然后不知道接下来要干嘛…所以，在调研之前,确保你的调研目的在你的脑海中是清晰的，并且围绕着这个目的规划好你想要获取到的信息，这个至关重要。</p></li><li><p>做用户调研是一个验证自己想法，发现机会的过程，原因固然重要，但是精确到解决方案，了解用户最关键的需求点在哪儿，才是我们最想要的东西。</p></li><li><p>用户问卷调研的结果，当我们在审视或挖掘结果的时候，尤其是用户对某个对象或事物的态度时，希望和其他客观数据结合，如产品运营数据，这样，我们得出的结论也许能够更接近于用户的真实情况。</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;三节课用户分析初级&quot;&gt;&lt;a href=&quot;#三节课用户分析初级&quot; class=&quot;headerlink&quot; title=&quot;三节课用户分析初级&quot;&gt;&lt;/a&gt;三节课用户分析初级&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;P1产品经理，最笨的方法就是去接触用户，这个阶段的产品经理基本上可以
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/12/31/hello-world/"/>
+    <id>http://yoursite.com/2018/12/31/hello-world/</id>
+    <published>2018-12-31T08:06:54.829Z</published>
+    <updated>2019-06-06T12:44:47.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
